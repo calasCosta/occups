@@ -40,7 +40,7 @@ section div{
     padding: 15px;
 }
 
-section a{
+section div a{
     color: black;
     text-decoration: none;
 }
@@ -58,7 +58,6 @@ section a:hover{
     padding-bottom: 10px;
     padding-top: 5px;
     border-radius: 10px;
-    text-decoration: none;
     
 }
 
