@@ -38,7 +38,6 @@ section div img {
 section div{
     display: inline-block;
     padding: 15px;
-    background-color: white;
 }
 
 section div a{
@@ -61,6 +60,10 @@ section a:hover{
     border-radius: 10px;
     background-color: white;
 }
+
+.course p {
+    color: white;
+{
 
 .percentege{
     border-style: dotted;
